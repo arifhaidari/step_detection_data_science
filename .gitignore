@@ -6,6 +6,6 @@ template.config.js
 
 raw_data/*.json
 raw_data
-data
+data/*.csv
 
 

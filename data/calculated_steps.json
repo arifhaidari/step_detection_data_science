@@ -1,0 +1,1640 @@
+[
+    {
+        "id": "MRBF3DNuWq0zhSXajwPy",
+        "start_time": "2024-06-14T07:19:32",
+        "end_time": "2024-06-14T07:19:44",
+        "left_steps": 99,
+        "right_steps": 106
+    },
+    {
+        "id": "JTK6RIC3JrwDykp2XERB",
+        "start_time": "2024-06-14T07:21:14",
+        "end_time": "2024-06-14T07:21:26",
+        "left_steps": 95,
+        "right_steps": 100
+    },
+    {
+        "id": "gFsK9CqVrL25MhFnYSzd",
+        "start_time": "2024-06-14T07:22:18",
+        "end_time": "2024-06-14T07:22:30",
+        "left_steps": 100,
+        "right_steps": 108
+    },
+    {
+        "id": "CiebYhzPBsVTxlm2R5YC",
+        "start_time": "2024-06-14T07:22:59",
+        "end_time": "2024-06-14T07:23:12",
+        "left_steps": 105,
+        "right_steps": 113
+    },
+    {
+        "id": "voYtr9vgtLGs0EsIqABv",
+        "start_time": "2024-06-14T07:23:48",
+        "end_time": "2024-06-14T07:24:02",
+        "left_steps": 116,
+        "right_steps": 123
+    },
+    {
+        "id": "iRsAqd0NbbBjg9JScc4g",
+        "start_time": "2024-06-14T07:24:35",
+        "end_time": "2024-06-14T07:24:49",
+        "left_steps": 67,
+        "right_steps": 74
+    },
+    {
+        "id": "p95ad7xJTEJF6cnlZzQL",
+        "start_time": "2024-06-14T07:25:54",
+        "end_time": "2024-06-14T07:26:08",
+        "left_steps": 69,
+        "right_steps": 77
+    },
+    {
+        "id": "olduoXLxxh58T7QO1n9e",
+        "start_time": "2024-06-14T07:26:38",
+        "end_time": "2024-06-14T07:26:50",
+        "left_steps": 58,
+        "right_steps": 64
+    },
+    {
+        "id": "H2upxhDDQ1uiAqZOQc61",
+        "start_time": "2024-06-14T07:27:26",
+        "end_time": "2024-06-14T07:27:39",
+        "left_steps": 63,
+        "right_steps": 70
+    },
+    {
+        "id": "SKckun9NYbNa8mabfLVf",
+        "start_time": "2024-06-14T07:28:09",
+        "end_time": "2024-06-14T07:28:23",
+        "left_steps": 72,
+        "right_steps": 75
+    },
+    {
+        "id": "iEenNiZinB9xT3zkAhZv",
+        "start_time": "2024-06-14T08:03:21",
+        "end_time": "2024-06-14T08:03:49",
+        "left_steps": 314,
+        "right_steps": 318
+    },
+    {
+        "id": "cFlL8vD8tI2Q16Kyw7hq",
+        "start_time": "2024-06-14T08:06:58",
+        "end_time": "2024-06-14T12:25:24",
+        "left_steps": 187,
+        "right_steps": 195
+    },
+    {
+        "id": "OGJm4tQlgTISioLWHGfJ",
+        "start_time": "2024-06-14T08:08:27",
+        "end_time": "2024-06-14T08:08:44",
+        "left_steps": 146,
+        "right_steps": 154
+    },
+    {
+        "id": "qPINKM6dATeOEdYlZkhU",
+        "start_time": "2024-06-14T08:09:59",
+        "end_time": "2024-06-14T08:10:14",
+        "left_steps": 115,
+        "right_steps": 123
+    },
+    {
+        "id": "PXeOJ7eRTNvN7uFsSpJW",
+        "start_time": "2024-06-14T08:10:51",
+        "end_time": "2024-06-14T08:11:06",
+        "left_steps": 123,
+        "right_steps": 132
+    },
+    {
+        "id": "XF0T3xatWa03AnGBoOkZ",
+        "start_time": "2024-06-14T08:11:40",
+        "end_time": "2024-06-14T08:11:56",
+        "left_steps": 134,
+        "right_steps": 141
+    },
+    {
+        "id": "w0Mk7i0zJ74GfaETi5t9",
+        "start_time": "2024-06-14T08:13:47",
+        "end_time": "2024-06-14T08:14:02",
+        "left_steps": 123,
+        "right_steps": 132
+    },
+    {
+        "id": "0AxduuyH7QvfV841ANdD",
+        "start_time": "2024-06-14T08:14:32",
+        "end_time": "2024-06-14T08:14:46",
+        "left_steps": 106,
+        "right_steps": 114
+    },
+    {
+        "id": "iYCj1Y3LMt5gNPJnEb4a",
+        "start_time": "2024-06-14T08:15:17",
+        "end_time": "2024-06-14T08:15:32",
+        "left_steps": 123,
+        "right_steps": 133
+    },
+    {
+        "id": "WQve2PHVQpAGAVuM3spp",
+        "start_time": "2024-06-14T08:16:04",
+        "end_time": "2024-06-14T08:16:18",
+        "left_steps": 103,
+        "right_steps": 112
+    },
+    {
+        "id": "8b3wULuFS7P27dSMkDod",
+        "start_time": "2024-06-14T08:28:30",
+        "end_time": "2024-06-14T08:28:59",
+        "left_steps": 181,
+        "right_steps": 187
+    },
+    {
+        "id": "ldKrKt0GkBhlaXZAHigC",
+        "start_time": "2024-06-14T08:33:18",
+        "end_time": "2024-06-14T08:33:31",
+        "left_steps": 97,
+        "right_steps": 104
+    },
+    {
+        "id": "vPfCyiLSxFq0Ns2gmJBD",
+        "start_time": "2024-06-14T08:35:31",
+        "end_time": "2024-06-14T08:35:45",
+        "left_steps": 113,
+        "right_steps": 120
+    },
+    {
+        "id": "xQpjE3fXHvhHMV4p8dDB",
+        "start_time": "2024-06-14T08:36:40",
+        "end_time": "2024-06-14T08:36:54",
+        "left_steps": 137,
+        "right_steps": 145
+    },
+    {
+        "id": "bj1sfv5yhxfHDaJK7cTu",
+        "start_time": "2024-06-14T08:37:27",
+        "end_time": "2024-06-14T08:37:41",
+        "left_steps": 101,
+        "right_steps": 110
+    },
+    {
+        "id": "kbCNaZF5DNyxTzGLJ0un",
+        "start_time": "2024-06-14T08:57:34",
+        "end_time": "2024-06-14T08:57:49",
+        "left_steps": 80,
+        "right_steps": 32
+    },
+    {
+        "id": "zmCkqhYTl03DYdauXAtc",
+        "start_time": "2024-06-14T09:11:13",
+        "end_time": "2024-06-14T09:11:36",
+        "left_steps": 276,
+        "right_steps": 283
+    },
+    {
+        "id": "AWIfWpT5yn9VunOJYY3r",
+        "start_time": "2024-06-14T09:12:45",
+        "end_time": "2024-06-14T09:12:59",
+        "left_steps": 121,
+        "right_steps": 128
+    },
+    {
+        "id": "aLsCCWYabmB6E38wTgrd",
+        "start_time": "2024-06-14T09:14:22",
+        "end_time": "2024-06-14T09:14:36",
+        "left_steps": 108,
+        "right_steps": 113
+    },
+    {
+        "id": "jIy0qhnfve6kab0DCfWj",
+        "start_time": "2024-06-14T09:15:17",
+        "end_time": "2024-06-14T09:15:32",
+        "left_steps": 118,
+        "right_steps": 123
+    },
+    {
+        "id": "34tQly329CjGgyE7vUal",
+        "start_time": "2024-06-14T09:16:23",
+        "end_time": "2024-06-14T09:16:37",
+        "left_steps": 112,
+        "right_steps": 120
+    },
+    {
+        "id": "xa33F8FUA672obb0GxEX",
+        "start_time": "2024-06-14T09:17:04",
+        "end_time": "2024-06-14T09:17:18",
+        "left_steps": 130,
+        "right_steps": 136
+    },
+    {
+        "id": "k95n1DITdl2YhZn0bCbF",
+        "start_time": "2024-06-14T09:17:48",
+        "end_time": "2024-06-14T09:18:01",
+        "left_steps": 116,
+        "right_steps": 125
+    },
+    {
+        "id": "PlZBUyL5yplLuGXWLo0e",
+        "start_time": "2024-06-14T09:18:25",
+        "end_time": "2024-06-14T09:18:37",
+        "left_steps": 98,
+        "right_steps": 106
+    },
+    {
+        "id": "88j5q5DqUwwVPp9WWgr8",
+        "start_time": "2024-06-14T09:19:25",
+        "end_time": "2024-06-14T09:19:39",
+        "left_steps": 118,
+        "right_steps": 125
+    },
+    {
+        "id": "nLy1y7zW9IFehKaW6EdB",
+        "start_time": "2024-06-14T09:27:53",
+        "end_time": "2024-06-14T09:28:33",
+        "left_steps": 440,
+        "right_steps": 448
+    },
+    {
+        "id": "3IxfgrM6wdEk0VjpcC3g",
+        "start_time": "2024-06-14T09:30:01",
+        "end_time": "2024-06-14T09:30:17",
+        "left_steps": 150,
+        "right_steps": 158
+    },
+    {
+        "id": "0bYDrU653eQr2GwcMXXw",
+        "start_time": "2024-06-14T09:31:03",
+        "end_time": "2024-06-14T09:31:17",
+        "left_steps": 114,
+        "right_steps": 123
+    },
+    {
+        "id": "E4Pah49Nj3DzqeUwQvq8",
+        "start_time": "2024-06-14T09:31:48",
+        "end_time": "2024-06-14T09:32:02",
+        "left_steps": 124,
+        "right_steps": 133
+    },
+    {
+        "id": "hiG83ssX2DUOVgSmNQWr",
+        "start_time": "2024-06-14T09:32:27",
+        "end_time": "2024-06-14T09:32:41",
+        "left_steps": 121,
+        "right_steps": 129
+    },
+    {
+        "id": "ED2eruUaumZboW6dKWvw",
+        "start_time": "2024-06-14T09:33:13",
+        "end_time": "2024-06-14T09:33:28",
+        "left_steps": 136,
+        "right_steps": 144
+    },
+    {
+        "id": "y2zOvGMlRxBAdQrMrcbm",
+        "start_time": "2024-06-14T09:34:00",
+        "end_time": "2024-06-14T09:34:13",
+        "left_steps": 113,
+        "right_steps": 121
+    },
+    {
+        "id": "bcYBkURASlLpXGT4WXNT",
+        "start_time": "2024-06-14T09:34:41",
+        "end_time": "2024-06-14T09:34:55",
+        "left_steps": 118,
+        "right_steps": 128
+    },
+    {
+        "id": "BEJYfP7ggNtln4yOI4hj",
+        "start_time": "2024-06-14T09:35:24",
+        "end_time": "2024-06-14T09:35:40",
+        "left_steps": 149,
+        "right_steps": 156
+    },
+    {
+        "id": "YnKnDmcDoTUiuqYmetkm",
+        "start_time": "2024-06-14T09:36:24",
+        "end_time": "2024-06-14T09:36:38",
+        "left_steps": 110,
+        "right_steps": 118
+    },
+    {
+        "id": "kgggAw4OKiljRCMDYnXW",
+        "start_time": "2024-06-14T09:39:11",
+        "end_time": "2024-06-14T09:39:24",
+        "left_steps": 59,
+        "right_steps": 64
+    },
+    {
+        "id": "fiEruX3fHZ7eey6W8GME",
+        "start_time": "2024-06-14T09:39:58",
+        "end_time": "2024-06-14T09:40:13",
+        "left_steps": 69,
+        "right_steps": 77
+    },
+    {
+        "id": "4RvWQ0RVMCrvaB9C5ftU",
+        "start_time": "2024-06-14T09:40:53",
+        "end_time": "2024-06-14T09:41:08",
+        "left_steps": 68,
+        "right_steps": 73
+    },
+    {
+        "id": "2DkAfN0SOvEuGfHqLA5H",
+        "start_time": "2024-06-14T09:41:37",
+        "end_time": "2024-06-14T09:41:51",
+        "left_steps": 65,
+        "right_steps": 72
+    },
+    {
+        "id": "sDdYQy7PRaFL2fa2vpoD",
+        "start_time": "2024-06-14T09:42:21",
+        "end_time": "2024-06-14T09:42:36",
+        "left_steps": 62,
+        "right_steps": 67
+    },
+    {
+        "id": "SnL6OaytvzUlxQayF8MT",
+        "start_time": "2024-06-14T09:43:23",
+        "end_time": "2024-06-14T09:43:38",
+        "left_steps": 70,
+        "right_steps": 77
+    },
+    {
+        "id": "PVVzFnTOxlipLXoqXceK",
+        "start_time": "2024-06-14T09:44:24",
+        "end_time": "2024-06-14T09:44:38",
+        "left_steps": 56,
+        "right_steps": 63
+    },
+    {
+        "id": "DQX0QntnDHjAkg7Jhpx3",
+        "start_time": "2024-06-14T09:45:17",
+        "end_time": "2024-06-14T09:45:31",
+        "left_steps": 59,
+        "right_steps": 68
+    },
+    {
+        "id": "fWWMIviEKyrVSa49qRzP",
+        "start_time": "2024-06-14T09:45:57",
+        "end_time": "2024-06-14T09:46:11",
+        "left_steps": 59,
+        "right_steps": 65
+    },
+    {
+        "id": "Z1AILArBkINBepGZQbsw",
+        "start_time": "2024-06-14T09:46:47",
+        "end_time": "2024-06-14T09:47:00",
+        "left_steps": 57,
+        "right_steps": 63
+    },
+    {
+        "id": "WXV9KsqM8nfXTpUrOuQy",
+        "start_time": "2024-06-14T09:57:29",
+        "end_time": "2024-06-14T09:57:55",
+        "left_steps": 332,
+        "right_steps": 338
+    },
+    {
+        "id": "0373xrf1eaJoc8IcE6Gc",
+        "start_time": "2024-06-14T09:58:41",
+        "end_time": "2024-06-14T09:59:01",
+        "left_steps": 197,
+        "right_steps": 202
+    },
+    {
+        "id": "mOtM0aYKqkOkfwl4Y5KT",
+        "start_time": "2024-06-14T09:59:14",
+        "end_time": "2024-06-14T09:59:41",
+        "left_steps": 309,
+        "right_steps": 316
+    },
+    {
+        "id": "GVLRDH1P9DRKSGuPZiUH",
+        "start_time": "2024-06-14T09:59:54",
+        "end_time": "2024-06-14T10:00:15",
+        "left_steps": 249,
+        "right_steps": 256
+    },
+    {
+        "id": "9UKahgRyTNCkzjU4feSo",
+        "start_time": "2024-06-14T10:00:31",
+        "end_time": "2024-06-14T10:00:47",
+        "left_steps": 140,
+        "right_steps": 149
+    },
+    {
+        "id": "bNnJhahk7WNQykceSjZW",
+        "start_time": "2024-06-14T10:01:42",
+        "end_time": "2024-06-14T10:02:31",
+        "left_steps": 550,
+        "right_steps": 557
+    },
+    {
+        "id": "lgB7YYgMhulN33ql8Uzb",
+        "start_time": "2024-06-14T10:02:46",
+        "end_time": "2024-06-14T10:03:03",
+        "left_steps": 162,
+        "right_steps": 169
+    },
+    {
+        "id": "d1SJLQS5ncrA38E21pZF",
+        "start_time": "2024-06-14T10:03:19",
+        "end_time": "2024-06-14T10:03:34",
+        "left_steps": 129,
+        "right_steps": 138
+    },
+    {
+        "id": "oXt4ce8kNFcYIhNOdnFh",
+        "start_time": "2024-06-14T10:03:48",
+        "end_time": "2024-06-14T10:04:13",
+        "left_steps": 300,
+        "right_steps": 308
+    },
+    {
+        "id": "GZvNrD141xdO59uOgra6",
+        "start_time": "2024-06-14T10:04:24",
+        "end_time": "2024-06-14T10:04:43",
+        "left_steps": 182,
+        "right_steps": 190
+    },
+    {
+        "id": "kyG7GikN4psPbhKA9w2w",
+        "start_time": "2024-06-14T10:04:55",
+        "end_time": "2024-06-14T10:05:18",
+        "left_steps": 277,
+        "right_steps": 284
+    },
+    {
+        "id": "qKeIwbRH5KrfLNDof213",
+        "start_time": "2024-06-14T10:05:36",
+        "end_time": "2024-06-14T10:05:52",
+        "left_steps": 69,
+        "right_steps": 76
+    },
+    {
+        "id": "vVjtgNSUgxaaUHODqa8j",
+        "start_time": "2024-06-14T10:06:03",
+        "end_time": "2024-06-14T10:06:17",
+        "left_steps": 65,
+        "right_steps": 71
+    },
+    {
+        "id": "04SwmTFshylAIDUNCYTh",
+        "start_time": "2024-06-14T10:06:32",
+        "end_time": "2024-06-14T10:06:49",
+        "left_steps": 89,
+        "right_steps": 95
+    },
+    {
+        "id": "IDM3pIRA6Y0mQg7EW3Dp",
+        "start_time": "2024-06-14T10:07:02",
+        "end_time": "2024-06-14T10:07:17",
+        "left_steps": 77,
+        "right_steps": 81
+    },
+    {
+        "id": "vfCtNyl8QWR5f3QKLysc",
+        "start_time": "2024-06-14T10:07:30",
+        "end_time": "2024-06-14T10:07:46",
+        "left_steps": 72,
+        "right_steps": 76
+    },
+    {
+        "id": "ukPfdULjGWGeQC4DwbyM",
+        "start_time": "2024-06-14T10:07:57",
+        "end_time": "2024-06-14T10:08:15",
+        "left_steps": 95,
+        "right_steps": 100
+    },
+    {
+        "id": "UNhHz1Es3UebMX2amNYr",
+        "start_time": "2024-06-14T10:08:25",
+        "end_time": "2024-06-14T10:08:47",
+        "left_steps": 117,
+        "right_steps": 124
+    },
+    {
+        "id": "c5FBjTsVWOnupTeTpZAB",
+        "start_time": "2024-06-14T10:08:57",
+        "end_time": "2024-06-14T10:09:19",
+        "left_steps": 118,
+        "right_steps": 123
+    },
+    {
+        "id": "vh92aaJeQLxDazem2hN5",
+        "start_time": "2024-06-14T10:09:33",
+        "end_time": "2024-06-14T10:10:19",
+        "left_steps": 268,
+        "right_steps": 275
+    },
+    {
+        "id": "QfFgYYtaHp8kxCNFZtxH",
+        "start_time": "2024-06-14T10:21:38",
+        "end_time": "2024-06-14T10:22:00",
+        "left_steps": 272,
+        "right_steps": 278
+    },
+    {
+        "id": "2xEWici22n0TCq3xorWj",
+        "start_time": "2024-06-14T10:22:39",
+        "end_time": "2024-06-14T10:22:53",
+        "left_steps": 111,
+        "right_steps": 120
+    },
+    {
+        "id": "XTtBR3ZFfn7oabEDf7PU",
+        "start_time": "2024-06-14T10:23:30",
+        "end_time": "2024-06-14T10:23:46",
+        "left_steps": 149,
+        "right_steps": 157
+    },
+    {
+        "id": "KBeHv31CTtwysWU1FfXf",
+        "start_time": "2024-06-14T10:24:17",
+        "end_time": "2024-06-14T10:24:32",
+        "left_steps": 141,
+        "right_steps": 151
+    },
+    {
+        "id": "Q7XtkyJoyq8NeQZ6z3Wk",
+        "start_time": "2024-06-14T10:24:57",
+        "end_time": "2024-06-14T10:25:12",
+        "left_steps": 133,
+        "right_steps": 138
+    },
+    {
+        "id": "I5d52J8w365oPV34AHqF",
+        "start_time": "2024-06-14T10:25:31",
+        "end_time": "2024-06-14T10:25:42",
+        "left_steps": 91,
+        "right_steps": 97
+    },
+    {
+        "id": "oAtFGM30udNaRDAwd28B",
+        "start_time": "2024-06-14T10:28:51",
+        "end_time": "2024-06-14T10:29:04",
+        "left_steps": 114,
+        "right_steps": 124
+    },
+    {
+        "id": "nvM01cgDE1HTp6eqhrEY",
+        "start_time": "2024-06-14T10:29:22",
+        "end_time": "2024-06-14T10:29:37",
+        "left_steps": 140,
+        "right_steps": 146
+    },
+    {
+        "id": "fKgk4xFiPoeNrSdCH1uM",
+        "start_time": "2024-06-14T10:30:23",
+        "end_time": "2024-06-14T10:30:37",
+        "left_steps": 112,
+        "right_steps": 122
+    },
+    {
+        "id": "7Ob67KBQ7iH2nF2oXtBP",
+        "start_time": "2024-06-14T10:30:57",
+        "end_time": "2024-06-14T10:31:10",
+        "left_steps": 112,
+        "right_steps": 122
+    },
+    {
+        "id": "A8FgtdIfgUQpCr8MJpa5",
+        "start_time": "2024-06-14T10:32:10",
+        "end_time": "2024-06-14T10:32:28",
+        "left_steps": 93,
+        "right_steps": 101
+    },
+    {
+        "id": "rqJn87hcJVv3WbpoSlHN",
+        "start_time": "2024-06-14T10:32:48",
+        "end_time": "2024-06-14T10:33:47",
+        "left_steps": 384,
+        "right_steps": 390
+    },
+    {
+        "id": "NImIteqk8vrQ8uzzaU7M",
+        "start_time": "2024-06-14T10:34:05",
+        "end_time": "2024-06-14T10:34:17",
+        "left_steps": 53,
+        "right_steps": 57
+    },
+    {
+        "id": "Ghd865uZMFn3rSwkeXXa",
+        "start_time": "2024-06-14T10:34:42",
+        "end_time": "2024-06-14T10:34:55",
+        "left_steps": 61,
+        "right_steps": 67
+    },
+    {
+        "id": "kWfEBQJzAQFtXG4cdoCR",
+        "start_time": "2024-06-14T10:35:17",
+        "end_time": "2024-06-14T10:35:29",
+        "left_steps": 54,
+        "right_steps": 60
+    },
+    {
+        "id": "CS5Fp0MCbzGCrqckhZsR",
+        "start_time": "2024-06-14T10:35:52",
+        "end_time": "2024-06-14T10:36:04",
+        "left_steps": 49,
+        "right_steps": 57
+    },
+    {
+        "id": "pH0zEY4wchiARb4S87Vk",
+        "start_time": "2024-06-14T10:36:34",
+        "end_time": "2024-06-14T10:36:46",
+        "left_steps": 50,
+        "right_steps": 57
+    },
+    {
+        "id": "PG8UWBPTiF151J1NJOUn",
+        "start_time": "2024-06-14T10:37:04",
+        "end_time": "2024-06-14T10:37:16",
+        "left_steps": 51,
+        "right_steps": 57
+    },
+    {
+        "id": "4ikPFuW5GnKXxIAtDvCg",
+        "start_time": "2024-06-14T10:37:40",
+        "end_time": "2024-06-14T10:37:52",
+        "left_steps": 54,
+        "right_steps": 59
+    },
+    {
+        "id": "o9coK7JZnihiRlffojgZ",
+        "start_time": "2024-06-14T10:38:13",
+        "end_time": "2024-06-14T10:38:28",
+        "left_steps": 69,
+        "right_steps": 76
+    },
+    {
+        "id": "MPIOJZO3Lxffw8xq5IGa",
+        "start_time": "2024-06-14T10:53:51",
+        "end_time": "2024-06-14T10:54:18",
+        "left_steps": 280,
+        "right_steps": 287
+    },
+    {
+        "id": "9DbxZm0VPHrIZCTFcekU",
+        "start_time": "2024-06-14T10:55:00",
+        "end_time": "2024-06-14T10:55:16",
+        "left_steps": 148,
+        "right_steps": 157
+    },
+    {
+        "id": "BsxSnoTsRktvZsac1xw4",
+        "start_time": "2024-06-14T10:55:43",
+        "end_time": "2024-06-14T10:55:57",
+        "left_steps": 100,
+        "right_steps": 110
+    },
+    {
+        "id": "D2CSTd0hwRIZ1lsWBL2G",
+        "start_time": "2024-06-14T10:56:16",
+        "end_time": "2024-06-14T10:56:32",
+        "left_steps": 136,
+        "right_steps": 144
+    },
+    {
+        "id": "xLfrpos5rUFsaqpDiCak",
+        "start_time": "2024-06-14T10:56:51",
+        "end_time": "2024-06-14T10:57:05",
+        "left_steps": 104,
+        "right_steps": 113
+    },
+    {
+        "id": "89BMFVjfTvbnHo0B3Nkc",
+        "start_time": "2024-06-14T10:57:30",
+        "end_time": "2024-06-14T10:57:43",
+        "left_steps": 98,
+        "right_steps": 103
+    },
+    {
+        "id": "Ubl2WOZKOS7lQWbX68O6",
+        "start_time": "2024-06-14T10:58:18",
+        "end_time": "2024-06-14T10:58:31",
+        "left_steps": 103,
+        "right_steps": 112
+    },
+    {
+        "id": "gzjcjEr9PDsLznt3Wdf3",
+        "start_time": "2024-06-14T10:58:52",
+        "end_time": "2024-06-14T10:59:08",
+        "left_steps": 148,
+        "right_steps": 156
+    },
+    {
+        "id": "oEclrnwumygktEk0EPKO",
+        "start_time": "2024-06-14T10:59:22",
+        "end_time": "2024-06-14T10:59:35",
+        "left_steps": 100,
+        "right_steps": 110
+    },
+    {
+        "id": "iFn0gvAUoaWtybqgvz84",
+        "start_time": "2024-06-14T10:59:54",
+        "end_time": "2024-06-14T11:00:06",
+        "left_steps": 98,
+        "right_steps": 106
+    },
+    {
+        "id": "fvvvFT3GKhO0m29w5B3M",
+        "start_time": "2024-06-14T11:00:35",
+        "end_time": "2024-06-14T11:00:50",
+        "left_steps": 69,
+        "right_steps": 76
+    },
+    {
+        "id": "6v6n1fyKwccnX2Lh1Hee",
+        "start_time": "2024-06-14T11:01:10",
+        "end_time": "2024-06-14T11:01:24",
+        "left_steps": 69,
+        "right_steps": 74
+    },
+    {
+        "id": "4p8vTR6bPtp9RKCtQAJk",
+        "start_time": "2024-06-14T11:01:46",
+        "end_time": "2024-06-14T11:02:00",
+        "left_steps": 68,
+        "right_steps": 74
+    },
+    {
+        "id": "5t2kQOL3p253joFBs6aM",
+        "start_time": "2024-06-14T11:02:16",
+        "end_time": "2024-06-14T11:02:29",
+        "left_steps": 61,
+        "right_steps": 67
+    },
+    {
+        "id": "iADLDmM5P02y58wXl8qS",
+        "start_time": "2024-06-14T11:02:46",
+        "end_time": "2024-06-14T11:03:01",
+        "left_steps": 68,
+        "right_steps": 74
+    },
+    {
+        "id": "zdPfWhcGMpNtty31lRly",
+        "start_time": "2024-06-14T11:03:17",
+        "end_time": "2024-06-14T11:03:32",
+        "left_steps": 75,
+        "right_steps": 82
+    },
+    {
+        "id": "xCKrVMuGR6iHMMeBTsQw",
+        "start_time": "2024-06-14T11:03:49",
+        "end_time": "2024-06-14T11:04:06",
+        "left_steps": 82,
+        "right_steps": 88
+    },
+    {
+        "id": "mLTHn61P1QZkm4SzLiTE",
+        "start_time": "2024-06-14T11:04:23",
+        "end_time": "2024-06-14T11:04:37",
+        "left_steps": 67,
+        "right_steps": 73
+    },
+    {
+        "id": "mrkSPYx0AYP09LMXwZfV",
+        "start_time": "2024-06-14T11:05:16",
+        "end_time": "2024-06-14T11:05:33",
+        "left_steps": 88,
+        "right_steps": 93
+    },
+    {
+        "id": "HygrEbMw3UZkOkt8sfVZ",
+        "start_time": "2024-06-14T11:05:52",
+        "end_time": "2024-06-14T11:06:06",
+        "left_steps": 69,
+        "right_steps": 75
+    },
+    {
+        "id": "Ck7P4iTUJ9FAWUozF7Sg",
+        "start_time": "2024-06-14T11:15:20",
+        "end_time": "2024-06-14T11:15:37",
+        "left_steps": 166,
+        "right_steps": 175
+    },
+    {
+        "id": "VW4ETZE0nhBkRz03N1DK",
+        "start_time": "2024-06-14T11:15:54",
+        "end_time": "2024-06-14T11:16:10",
+        "left_steps": 140,
+        "right_steps": 148
+    },
+    {
+        "id": "KI3jSnjBMr4OcxME7Xyu",
+        "start_time": "2024-06-14T11:16:24",
+        "end_time": "2024-06-14T11:16:37",
+        "left_steps": 107,
+        "right_steps": 115
+    },
+    {
+        "id": "bLqjkZpNjsuD1qEDCSH5",
+        "start_time": "2024-06-14T11:16:49",
+        "end_time": "2024-06-14T11:17:07",
+        "left_steps": 180,
+        "right_steps": 190
+    },
+    {
+        "id": "4bembLxBRqfB3gEVqTgI",
+        "start_time": "2024-06-14T11:17:25",
+        "end_time": "2024-06-14T11:17:37",
+        "left_steps": 98,
+        "right_steps": 107
+    },
+    {
+        "id": "tOyMObETccIzTld32a5A",
+        "start_time": "2024-06-14T11:17:56",
+        "end_time": "2024-06-14T11:18:09",
+        "left_steps": 104,
+        "right_steps": 111
+    },
+    {
+        "id": "hp2uM7Dt3BARA5u7KdNN",
+        "start_time": "2024-06-14T11:18:28",
+        "end_time": "2024-06-14T11:18:40",
+        "left_steps": 97,
+        "right_steps": 107
+    },
+    {
+        "id": "aQtYS6F55X7WyQ6nN4kG",
+        "start_time": "2024-06-14T11:18:56",
+        "end_time": "2024-06-14T11:19:10",
+        "left_steps": 115,
+        "right_steps": 122
+    },
+    {
+        "id": "267ViyIlrQCyTPxPh0Bb",
+        "start_time": "2024-06-14T11:19:26",
+        "end_time": "2024-06-14T11:19:39",
+        "left_steps": 106,
+        "right_steps": 113
+    },
+    {
+        "id": "E7DSgZaRTy9TqBN3YuYc",
+        "start_time": "2024-06-14T11:19:53",
+        "end_time": "2024-06-14T11:20:07",
+        "left_steps": 137,
+        "right_steps": 146
+    },
+    {
+        "id": "xCigDui41xw9rF3MZ2EF",
+        "start_time": "2024-06-14T11:20:38",
+        "end_time": "2024-06-14T11:20:51",
+        "left_steps": 59,
+        "right_steps": 66
+    },
+    {
+        "id": "lVLLO87FXf6mi58R32H3",
+        "start_time": "2024-06-14T11:21:09",
+        "end_time": "2024-06-14T11:21:23",
+        "left_steps": 66,
+        "right_steps": 73
+    },
+    {
+        "id": "eXKLmsaGLoqvIpnNNpG8",
+        "start_time": "2024-06-14T11:21:39",
+        "end_time": "2024-06-14T11:21:58",
+        "left_steps": 104,
+        "right_steps": 110
+    },
+    {
+        "id": "MVRhlFdtnKXoxKYKe6mh",
+        "start_time": "2024-06-14T11:22:11",
+        "end_time": "2024-06-14T11:22:28",
+        "left_steps": 89,
+        "right_steps": 97
+    },
+    {
+        "id": "n8RnaRD2HKeF6EKGm84n",
+        "start_time": "2024-06-14T11:22:44",
+        "end_time": "2024-06-14T11:23:00",
+        "left_steps": 75,
+        "right_steps": 81
+    },
+    {
+        "id": "MMobe6EGE6bX36mN2sKR",
+        "start_time": "2024-06-14T11:23:15",
+        "end_time": "2024-06-14T11:23:29",
+        "left_steps": 65,
+        "right_steps": 74
+    },
+    {
+        "id": "AuwhtdBVdU0W1MEOf2td",
+        "start_time": "2024-06-14T11:23:52",
+        "end_time": "2024-06-14T11:24:05",
+        "left_steps": 60,
+        "right_steps": 65
+    },
+    {
+        "id": "as6AwUPIi5b2WEnIn4OO",
+        "start_time": "2024-06-14T11:24:19",
+        "end_time": "2024-06-14T11:24:35",
+        "left_steps": 71,
+        "right_steps": 77
+    },
+    {
+        "id": "3KSq4m3qpqV9Z4zBDSjw",
+        "start_time": "2024-06-14T11:24:49",
+        "end_time": "2024-06-14T11:25:04",
+        "left_steps": 67,
+        "right_steps": 74
+    },
+    {
+        "id": "aSpanlLyvDdtsqCKP0RY",
+        "start_time": "2024-06-14T11:25:18",
+        "end_time": "2024-06-14T11:25:32",
+        "left_steps": 66,
+        "right_steps": 73
+    },
+    {
+        "id": "c7ss5UxkwdJm5p3k1I67",
+        "start_time": "2024-06-14T11:34:17",
+        "end_time": "2024-06-14T11:34:33",
+        "left_steps": 144,
+        "right_steps": 152
+    },
+    {
+        "id": "1z0rNIsIZDIrD740ib7D",
+        "start_time": "2024-06-14T11:35:18",
+        "end_time": "2024-06-14T11:35:31",
+        "left_steps": 106,
+        "right_steps": 114
+    },
+    {
+        "id": "ghQSxud58NZPruhXhaG6",
+        "start_time": "2024-06-14T11:35:53",
+        "end_time": "2024-06-14T11:36:08",
+        "left_steps": 129,
+        "right_steps": 137
+    },
+    {
+        "id": "QMjDkjVJgfCAvxPCsVcu",
+        "start_time": "2024-06-14T11:36:25",
+        "end_time": "2024-06-14T11:36:36",
+        "left_steps": 88,
+        "right_steps": 97
+    },
+    {
+        "id": "4woc10tIodbQb8cnVOlP",
+        "start_time": "2024-06-14T11:36:56",
+        "end_time": "2024-06-14T11:37:08",
+        "left_steps": 86,
+        "right_steps": 95
+    },
+    {
+        "id": "pGNGPyHMVPwJzXxuRzXC",
+        "start_time": "2024-06-14T11:37:31",
+        "end_time": "2024-06-14T11:37:42",
+        "left_steps": 84,
+        "right_steps": 93
+    },
+    {
+        "id": "fFp5hn35TtkBWH0Nbqzn",
+        "start_time": "2024-06-14T11:38:01",
+        "end_time": "2024-06-14T11:38:12",
+        "left_steps": 87,
+        "right_steps": 96
+    },
+    {
+        "id": "xxgzaILfUSPvK8ax2KUi",
+        "start_time": "2024-06-14T11:38:32",
+        "end_time": "2024-06-14T11:38:44",
+        "left_steps": 97,
+        "right_steps": 106
+    },
+    {
+        "id": "X4vkHC3Brl05xf3pkVOq",
+        "start_time": "2024-06-14T11:39:02",
+        "end_time": "2024-06-14T11:39:13",
+        "left_steps": 90,
+        "right_steps": 100
+    },
+    {
+        "id": "MxynnfDdZD0l7eLFoTeU",
+        "start_time": "2024-06-14T11:39:31",
+        "end_time": "2024-06-14T11:39:43",
+        "left_steps": 89,
+        "right_steps": 97
+    },
+    {
+        "id": "SiVKIPVoDgwvC9s703h0",
+        "start_time": "2024-06-14T11:40:06",
+        "end_time": "2024-06-14T11:40:19",
+        "left_steps": 53,
+        "right_steps": 59
+    },
+    {
+        "id": "kzUXWVQxrWBaPA2LcFSb",
+        "start_time": "2024-06-14T11:40:38",
+        "end_time": "2024-06-14T11:40:50",
+        "left_steps": 54,
+        "right_steps": 63
+    },
+    {
+        "id": "bnIFrcCwLURcw1PSiuwK",
+        "start_time": "2024-06-14T11:41:06",
+        "end_time": "2024-06-14T11:41:18",
+        "left_steps": 51,
+        "right_steps": 58
+    },
+    {
+        "id": "M7pBbGw1yjGEZVslTKAq",
+        "start_time": "2024-06-14T11:41:36",
+        "end_time": "2024-06-14T11:41:48",
+        "left_steps": 52,
+        "right_steps": 60
+    },
+    {
+        "id": "UNflhCCjiaGdJAFvaCRo",
+        "start_time": "2024-06-14T11:42:06",
+        "end_time": "2024-06-14T11:42:18",
+        "left_steps": 51,
+        "right_steps": 56
+    },
+    {
+        "id": "hL8T9dJMfuTnWaGFgBbb",
+        "start_time": "2024-06-14T11:42:35",
+        "end_time": "2024-06-14T11:42:46",
+        "left_steps": 48,
+        "right_steps": 56
+    },
+    {
+        "id": "JxPX2mvEXDxexHmm4yzX",
+        "start_time": "2024-06-14T11:43:04",
+        "end_time": "2024-06-14T11:43:17",
+        "left_steps": 58,
+        "right_steps": 67
+    },
+    {
+        "id": "GyO75DcokqdXI13SvIIx",
+        "start_time": "2024-06-14T11:43:37",
+        "end_time": "2024-06-14T11:43:57",
+        "left_steps": 109,
+        "right_steps": 116
+    },
+    {
+        "id": "Evh9Us2Ad679NutcvoQR",
+        "start_time": "2024-06-14T11:44:27",
+        "end_time": "2024-06-14T11:44:40",
+        "left_steps": 60,
+        "right_steps": 66
+    },
+    {
+        "id": "uu16CZZMVJSvQYcijwIb",
+        "start_time": "2024-06-14T11:44:58",
+        "end_time": "2024-06-14T11:45:11",
+        "left_steps": 61,
+        "right_steps": 69
+    },
+    {
+        "id": "skTR4QUln1YkIyMlOciX",
+        "start_time": "2024-06-14T11:53:07",
+        "end_time": "2024-06-14T11:53:20",
+        "left_steps": 101,
+        "right_steps": 109
+    },
+    {
+        "id": "1D7YXIfhop3uOfsgoHjV",
+        "start_time": "2024-06-14T11:53:38",
+        "end_time": "2024-06-14T11:53:50",
+        "left_steps": 101,
+        "right_steps": 107
+    },
+    {
+        "id": "oaVJ0gXkZjgoyH2HgD1l",
+        "start_time": "2024-06-14T11:54:30",
+        "end_time": "2024-06-14T11:54:43",
+        "left_steps": 109,
+        "right_steps": 116
+    },
+    {
+        "id": "BeLcg45FbSaU3sd7EXI0",
+        "start_time": "2024-06-14T11:55:04",
+        "end_time": "2024-06-14T11:55:16",
+        "left_steps": 95,
+        "right_steps": 104
+    },
+    {
+        "id": "63SYgBzTPRziv46yM5n6",
+        "start_time": "2024-06-14T11:55:54",
+        "end_time": "2024-06-14T11:56:07",
+        "left_steps": 102,
+        "right_steps": 110
+    },
+    {
+        "id": "T3c2fEBJa4M3G0OqKp3Y",
+        "start_time": "2024-06-14T11:56:21",
+        "end_time": "2024-06-14T11:56:43",
+        "left_steps": 276,
+        "right_steps": 285
+    },
+    {
+        "id": "gv4iHJwGYWDcZFwpxpxG",
+        "start_time": "2024-06-14T11:57:45",
+        "end_time": "2024-06-14T11:57:58",
+        "left_steps": 102,
+        "right_steps": 111
+    },
+    {
+        "id": "a7Lrg5xuhsTFRtyOYvYn",
+        "start_time": "2024-06-14T11:58:13",
+        "end_time": "2024-06-14T11:58:27",
+        "left_steps": 110,
+        "right_steps": 118
+    },
+    {
+        "id": "uMXObKRJCizH3vDlP3s9",
+        "start_time": "2024-06-14T11:58:53",
+        "end_time": "2024-06-14T11:59:06",
+        "left_steps": 100,
+        "right_steps": 106
+    },
+    {
+        "id": "1bNvcoM97anYHfq1kXqs",
+        "start_time": "2024-06-14T11:59:40",
+        "end_time": "2024-06-14T11:59:57",
+        "left_steps": 165,
+        "right_steps": 174
+    },
+    {
+        "id": "0iE2x5VeObt4lVsIU3L4",
+        "start_time": "2024-06-14T12:00:31",
+        "end_time": "2024-06-14T12:00:44",
+        "left_steps": 56,
+        "right_steps": 63
+    },
+    {
+        "id": "EwX0ud7SU7tmBniXKdR0",
+        "start_time": "2024-06-14T12:00:57",
+        "end_time": "2024-06-14T12:01:12",
+        "left_steps": 75,
+        "right_steps": 81
+    },
+    {
+        "id": "kpdEFcvd8PEFTFKzwJjB",
+        "start_time": "2024-06-14T12:01:26",
+        "end_time": "2024-06-14T12:01:43",
+        "left_steps": 84,
+        "right_steps": 90
+    },
+    {
+        "id": "qDXPhZzNAfn55vu4ZeRf",
+        "start_time": "2024-06-14T12:01:58",
+        "end_time": "2024-06-14T12:02:14",
+        "left_steps": 77,
+        "right_steps": 82
+    },
+    {
+        "id": "HhITFxSqKkxEqHVjrTZn",
+        "start_time": "2024-06-14T12:02:30",
+        "end_time": "2024-06-14T12:02:42",
+        "left_steps": 51,
+        "right_steps": 57
+    },
+    {
+        "id": "qO6rJrO28nEXFxhx1lnO",
+        "start_time": "2024-06-14T12:02:56",
+        "end_time": "2024-06-14T12:03:12",
+        "left_steps": 77,
+        "right_steps": 82
+    },
+    {
+        "id": "zPGlZfAUDPTyJSgqK61T",
+        "start_time": "2024-06-14T12:03:33",
+        "end_time": "2024-06-14T12:03:47",
+        "left_steps": 60,
+        "right_steps": 66
+    },
+    {
+        "id": "dmo2cfliXnzLc6tEznVp",
+        "start_time": "2024-06-14T12:04:01",
+        "end_time": "2024-06-14T12:04:15",
+        "left_steps": 67,
+        "right_steps": 72
+    },
+    {
+        "id": "iloGIUsxyJJCYITwkvIl",
+        "start_time": "2024-06-14T12:04:30",
+        "end_time": "2024-06-14T12:04:46",
+        "left_steps": 76,
+        "right_steps": 82
+    },
+    {
+        "id": "wTHKa2gsTtvB6smLZTNF",
+        "start_time": "2024-06-14T12:05:01",
+        "end_time": "2024-06-14T12:05:15",
+        "left_steps": 68,
+        "right_steps": 74
+    },
+    {
+        "id": "FCw9xtCiuaEhQMjaaD7f",
+        "start_time": "2024-06-14T12:15:36",
+        "end_time": "2024-06-14T12:16:07",
+        "left_steps": 352,
+        "right_steps": 360
+    },
+    {
+        "id": "HlUfAWgNLrCCZjSmjxDB",
+        "start_time": "2024-06-14T12:16:40",
+        "end_time": "2024-06-14T12:16:57",
+        "left_steps": 142,
+        "right_steps": 151
+    },
+    {
+        "id": "FLczov4zy5q52lOFy7f2",
+        "start_time": "2024-06-14T12:17:21",
+        "end_time": "2024-06-14T12:17:36",
+        "left_steps": 123,
+        "right_steps": 131
+    },
+    {
+        "id": "4diavXwzETso5buth3ON",
+        "start_time": "2024-06-14T12:17:54",
+        "end_time": "2024-06-14T12:18:11",
+        "left_steps": 149,
+        "right_steps": 157
+    },
+    {
+        "id": "QeFVR7RpzekG6mt4SoLs",
+        "start_time": "2024-06-14T12:18:26",
+        "end_time": "2024-06-14T12:18:40",
+        "left_steps": 110,
+        "right_steps": 118
+    },
+    {
+        "id": "P6GVRO0t0ugO3G3hVLLr",
+        "start_time": "2024-06-14T12:18:50",
+        "end_time": "2024-06-14T12:19:06",
+        "left_steps": 146,
+        "right_steps": 154
+    },
+    {
+        "id": "rU3gw4LJE4469OfXuiw5",
+        "start_time": "2024-06-14T12:19:19",
+        "end_time": "2024-06-14T12:19:34",
+        "left_steps": 136,
+        "right_steps": 143
+    },
+    {
+        "id": "vDADeqBXDOhRz2hj1weW",
+        "start_time": "2024-06-14T12:19:54",
+        "end_time": "2024-06-14T12:20:11",
+        "left_steps": 144,
+        "right_steps": 152
+    },
+    {
+        "id": "qOFuUi37Xw1hextwdqbQ",
+        "start_time": "2024-06-14T12:20:21",
+        "end_time": "2024-06-14T12:20:36",
+        "left_steps": 138,
+        "right_steps": 145
+    },
+    {
+        "id": "bDbZg8cpaN1YTk1owjgb",
+        "start_time": "2024-06-14T12:20:50",
+        "end_time": "2024-06-14T12:21:03",
+        "left_steps": 102,
+        "right_steps": 110
+    },
+    {
+        "id": "dxLAF5zCgjgkuwyHNtHP",
+        "start_time": "2024-06-14T12:21:27",
+        "end_time": "2024-06-14T12:21:48",
+        "left_steps": 109,
+        "right_steps": 117
+    },
+    {
+        "id": "B2HXwFOWFYOSE8w7CXp0",
+        "start_time": "2024-06-14T12:22:01",
+        "end_time": "2024-06-14T12:22:17",
+        "left_steps": 72,
+        "right_steps": 77
+    },
+    {
+        "id": "qgS7L4pKhtAibyQ3vwG1",
+        "start_time": "2024-06-14T12:22:32",
+        "end_time": "2024-06-14T12:22:45",
+        "left_steps": 57,
+        "right_steps": 65
+    },
+    {
+        "id": "SC200ch3hMTPfavTqjBx",
+        "start_time": "2024-06-14T12:23:02",
+        "end_time": "2024-06-14T12:23:15",
+        "left_steps": 57,
+        "right_steps": 61
+    },
+    {
+        "id": "XOeQVwXumYb2BH4rqcCj",
+        "start_time": "2024-06-14T12:23:25",
+        "end_time": "2024-06-14T12:23:40",
+        "left_steps": 69,
+        "right_steps": 74
+    },
+    {
+        "id": "645Pnjk719BNfmqnGqqr",
+        "start_time": "2024-06-14T12:23:51",
+        "end_time": "2024-06-14T12:24:05",
+        "left_steps": 67,
+        "right_steps": 75
+    },
+    {
+        "id": "fn3qDato4tk08zSycECG",
+        "start_time": "2024-06-14T12:24:19",
+        "end_time": "2024-06-14T12:24:31",
+        "left_steps": 57,
+        "right_steps": 63
+    },
+    {
+        "id": "U6PaM30BnkCpsNTpK6WY",
+        "start_time": "2024-06-14T12:24:43",
+        "end_time": "2024-06-14T12:24:58",
+        "left_steps": 70,
+        "right_steps": 79
+    },
+    {
+        "id": "fl29ydadmVNR5OrIJnDB",
+        "start_time": "2024-06-14T12:25:10",
+        "end_time": "2024-06-14T12:25:24",
+        "left_steps": 61,
+        "right_steps": 69
+    },
+    {
+        "id": "9HHPkc1vOhOFbWKkEd8a",
+        "start_time": "2024-06-14T12:25:34",
+        "end_time": "2024-06-14T12:25:53",
+        "left_steps": 105,
+        "right_steps": 111
+    },
+    {
+        "id": "JsYPPd9ZaeUvMHOaGLEX",
+        "start_time": "2024-06-14T12:31:51",
+        "end_time": "2024-06-14T12:32:08",
+        "left_steps": 158,
+        "right_steps": 166
+    },
+    {
+        "id": "frjNvBJSh6Rwa7mT5BIP",
+        "start_time": "2024-06-14T12:33:55",
+        "end_time": "2024-06-14T12:34:17",
+        "left_steps": 272,
+        "right_steps": 280
+    },
+    {
+        "id": "qB133fZNhw3QdGE8dHUX",
+        "start_time": "2024-06-14T12:34:54",
+        "end_time": "2024-06-14T12:35:09",
+        "left_steps": 141,
+        "right_steps": 147
+    },
+    {
+        "id": "GlENaCnJODmA9FVyD4BA",
+        "start_time": "2024-06-14T12:35:31",
+        "end_time": "2024-06-14T12:35:48",
+        "left_steps": 159,
+        "right_steps": 165
+    },
+    {
+        "id": "gCT4o0Ygq6gbZJIyR3Sa",
+        "start_time": "2024-06-14T12:36:02",
+        "end_time": "2024-06-14T12:36:17",
+        "left_steps": 119,
+        "right_steps": 123
+    },
+    {
+        "id": "rbk3m0CFK4mQVt2ot6T2",
+        "start_time": "2024-06-14T12:36:31",
+        "end_time": "2024-06-14T12:36:46",
+        "left_steps": 133,
+        "right_steps": 141
+    },
+    {
+        "id": "lA1TeWgVlCNA21JZnSUe",
+        "start_time": "2024-06-14T12:37:00",
+        "end_time": "2024-06-14T12:37:13",
+        "left_steps": 109,
+        "right_steps": 116
+    },
+    {
+        "id": "bUSuGGbBCylZDKhyGupn",
+        "start_time": "2024-06-14T12:37:28",
+        "end_time": "2024-06-14T12:37:44",
+        "left_steps": 154,
+        "right_steps": 159
+    },
+    {
+        "id": "9mqnUJPbhFEHxaVAtHME",
+        "start_time": "2024-06-14T12:37:59",
+        "end_time": "2024-06-14T12:38:12",
+        "left_steps": 110,
+        "right_steps": 117
+    },
+    {
+        "id": "SQ6mbzCpP3zYvJtJ0vrw",
+        "start_time": "2024-06-14T12:38:41",
+        "end_time": "2024-06-14T12:38:55",
+        "left_steps": 120,
+        "right_steps": 127
+    },
+    {
+        "id": "gesa6MPZuCfI5Zw4AcOw",
+        "start_time": "2024-06-14T12:39:12",
+        "end_time": "2024-06-14T12:39:36",
+        "left_steps": 143,
+        "right_steps": 148
+    },
+    {
+        "id": "ZvgatKIwynOMlV7juwLL",
+        "start_time": "2024-06-14T12:39:57",
+        "end_time": "2024-06-14T12:40:12",
+        "left_steps": 76,
+        "right_steps": 81
+    },
+    {
+        "id": "rdVcTf0BvDP3dfambVoU",
+        "start_time": "2024-06-14T12:40:25",
+        "end_time": "2024-06-14T12:40:39",
+        "left_steps": 78,
+        "right_steps": 83
+    },
+    {
+        "id": "2VCKgAxw7W55pgMsYhJU",
+        "start_time": "2024-06-14T12:40:53",
+        "end_time": "2024-06-14T12:41:33",
+        "left_steps": 266,
+        "right_steps": 270
+    },
+    {
+        "id": "iEUoNZJEb9uQ5CljPkds",
+        "start_time": "2024-06-14T12:41:49",
+        "end_time": "2024-06-14T12:42:05",
+        "left_steps": 87,
+        "right_steps": 94
+    },
+    {
+        "id": "R7uO2MgFDCbUsPk7FpW5",
+        "start_time": "2024-06-14T12:42:18",
+        "end_time": "2024-06-14T12:42:33",
+        "left_steps": 74,
+        "right_steps": 79
+    },
+    {
+        "id": "bK6UIKg2ySsmZZL7dRNf",
+        "start_time": "2024-06-14T12:42:45",
+        "end_time": "2024-06-14T12:42:59",
+        "left_steps": 70,
+        "right_steps": 77
+    },
+    {
+        "id": "vipJDEVyprhM1ZRVDeva",
+        "start_time": "2024-06-14T12:43:10",
+        "end_time": "2024-06-14T12:43:25",
+        "left_steps": 72,
+        "right_steps": 79
+    },
+    {
+        "id": "9wfBTtUsDRWyGBawxnxr",
+        "start_time": "2024-06-14T12:43:36",
+        "end_time": "2024-06-14T12:43:53",
+        "left_steps": 96,
+        "right_steps": 104
+    },
+    {
+        "id": "GT0IvNdNKeqGa67Bb7JF",
+        "start_time": "2024-06-14T12:44:07",
+        "end_time": "2024-06-14T12:44:22",
+        "left_steps": 78,
+        "right_steps": 82
+    },
+    {
+        "id": "LlyuLEcSujyVMPsVFFgk",
+        "start_time": "2024-06-14T12:51:17",
+        "end_time": "2024-06-14T12:51:32",
+        "left_steps": 145,
+        "right_steps": 147
+    },
+    {
+        "id": "TNZ9rqmh5B8zI9Grvxhq",
+        "start_time": "2024-06-14T12:54:03",
+        "end_time": "2024-06-14T12:54:17",
+        "left_steps": 139,
+        "right_steps": 146
+    },
+    {
+        "id": "F4T3qH1lVVhaT23Viz2i",
+        "start_time": "2024-06-14T12:54:37",
+        "end_time": "2024-06-14T12:54:49",
+        "left_steps": 100,
+        "right_steps": 108
+    },
+    {
+        "id": "7i0q5t4grVRYsgmkB4mF",
+        "start_time": "2024-06-14T12:55:09",
+        "end_time": "2024-06-14T12:55:21",
+        "left_steps": 104,
+        "right_steps": 113
+    },
+    {
+        "id": "Ln67IrkDB59na3bXhMOq",
+        "start_time": "2024-06-14T12:55:46",
+        "end_time": "2024-06-14T12:56:02",
+        "left_steps": 150,
+        "right_steps": 159
+    },
+    {
+        "id": "CGip6nLtaO3eTdH5hxud",
+        "start_time": "2024-06-14T12:56:17",
+        "end_time": "2024-06-14T12:56:29",
+        "left_steps": 104,
+        "right_steps": 111
+    },
+    {
+        "id": "Gcf4hfQhx9Ky3NPUL9Ez",
+        "start_time": "2024-06-14T12:56:49",
+        "end_time": "2024-06-14T12:57:02",
+        "left_steps": 111,
+        "right_steps": 117
+    },
+    {
+        "id": "cwxMjVOD6QZMf4ksUvBs",
+        "start_time": "2024-06-14T12:57:21",
+        "end_time": "2024-06-14T12:57:32",
+        "left_steps": 96,
+        "right_steps": 104
+    },
+    {
+        "id": "033nuFnKoOjj4NeIt9FS",
+        "start_time": "2024-06-14T12:57:50",
+        "end_time": "2024-06-14T12:58:02",
+        "left_steps": 102,
+        "right_steps": 110
+    },
+    {
+        "id": "2VSiky9fSdecegDBBxZn",
+        "start_time": "2024-06-14T12:58:22",
+        "end_time": "2024-06-14T12:58:37",
+        "left_steps": 143,
+        "right_steps": 150
+    },
+    {
+        "id": "WNfCgjB7lXJ7imTayxWw",
+        "start_time": "2024-06-14T12:58:54",
+        "end_time": "2024-06-14T12:59:10",
+        "left_steps": 89,
+        "right_steps": 94
+    },
+    {
+        "id": "ng4Z49ha5hA2JfBoOqNM",
+        "start_time": "2024-06-14T12:59:28",
+        "end_time": "2024-06-14T12:59:42",
+        "left_steps": 80,
+        "right_steps": 84
+    },
+    {
+        "id": "wpxUhPCIO1O14mJYsRlL",
+        "start_time": "2024-06-14T13:00:01",
+        "end_time": "2024-06-14T13:00:16",
+        "left_steps": 84,
+        "right_steps": 91
+    },
+    {
+        "id": "fuMXMxSYlY3WVI19If7X",
+        "start_time": "2024-06-14T13:00:33",
+        "end_time": "2024-06-14T13:00:45",
+        "left_steps": 62,
+        "right_steps": 71
+    },
+    {
+        "id": "YpmqjrY2TKwGYkMciRWN",
+        "start_time": "2024-06-14T13:01:02",
+        "end_time": "2024-06-14T13:01:16",
+        "left_steps": 67,
+        "right_steps": 76
+    },
+    {
+        "id": "QYbElNxG3mGgtVSo2LFF",
+        "start_time": "2024-06-14T13:01:32",
+        "end_time": "2024-06-14T13:01:45",
+        "left_steps": 65,
+        "right_steps": 73
+    },
+    {
+        "id": "5gJXvwoY7GASU8e6kD4a",
+        "start_time": "2024-06-14T13:02:01",
+        "end_time": "2024-06-14T13:02:13",
+        "left_steps": 60,
+        "right_steps": 69
+    },
+    {
+        "id": "hN9tdxixtXOzQinClBe3",
+        "start_time": "2024-06-14T13:02:28",
+        "end_time": "2024-06-14T13:02:41",
+        "left_steps": 67,
+        "right_steps": 73
+    },
+    {
+        "id": "v18fuwRCZNoPTqfFie5G",
+        "start_time": "2024-06-14T13:02:57",
+        "end_time": "2024-06-14T13:03:10",
+        "left_steps": 64,
+        "right_steps": 72
+    }
+]
