@@ -1,2 +1,12 @@
 shap
 shapely
+
+fastapi
+uvicorn
+pandas
+numpy
+scipy
+joblib
+pydantic
+sqlalchemy
+psycopg2
