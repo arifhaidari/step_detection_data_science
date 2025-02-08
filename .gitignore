@@ -1,0 +1,10 @@
+.templates
+.DS_Store
+.vscode/
+
+template.config.js
+
+raw_data/*.json
+raw_data
+
+
