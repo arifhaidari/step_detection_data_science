@@ -1,13 +1,11 @@
-# Use an official Python runtime as a parent image
-FROM python:3.9-slim
+# official Python runtime as a parent image
+FROM python:3.10-slim
 
-# Set the working directory in the container
+# working directory in the container
 WORKDIR /app
 
-# Copy only the necessary files from the host
 COPY fastapi /app
 COPY models /app
-COPY data /app
 
 # Install dependencies
 COPY requirements.txt /app
