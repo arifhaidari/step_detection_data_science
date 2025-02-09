@@ -1,0 +1,2 @@
+ download the apk: 
+https://github.com/arifhaidari/step_detection_flutter/tree/main/apk

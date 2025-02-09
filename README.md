@@ -57,7 +57,7 @@ Step detection is an essential component in various applications, including fitn
 ├── Dockerfile
 ├── README.md
 ├── app
-│   └── info.txt
+│   └── download_app.txt
 ├── data
 │   ├── calculated_steps.json
 │   ├── feature_engineered_data.csv
@@ -123,7 +123,7 @@ The project includes the following key deliverables:
 
 3. **Flutter Application for Data Visualization:**
 
-   - [Flutter Project](https://github.com/arifhaidari/step_detection_data_science/tree/main/app)
+   - [Flutter Project](https://github.com/arifhaidari/step_detection_flutter/tree/main)
 
 4. **Documentation (Markdown/PDF):**
    - This README file
