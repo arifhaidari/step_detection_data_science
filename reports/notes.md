@@ -11,3 +11,9 @@ Additional Note: If scaler is used before train_test_split, data leakage will ha
 ---
 
 The "Fast Fourier Transform" (FFT) is an important measurement method in the science of audio and acoustics measurement. It converts a signal into individual spectral components and thereby provides frequency information about the signal.
+
+---
+
+Commands: <br>
+to run the script as a module <br>
+`python -m src.steps_predictor`

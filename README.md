@@ -1,20 +1,8 @@
 # Step Detection - Data Science
 
-## Table of Contents
+## How to run?
 
-- [Introduction](#introduction)
-- [Problem Definition](#problem-definition)
-- [Approach](#approach)
-- [Project Structure](#project-structure)
-- [Data Sources & Citations](#data-sources--citations)
-- [Deliverables](#deliverables)
-- [Model Evaluation](#model-evaluation)
-- [Challenges Encountered](#challenges-encountered)
-- [Usage](#usage)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-
----
+before we start, if you want to run first, here is a step by step guid how to run the project and try everything by yourself and get hands on experience - the link
 
 ## Introduction
 

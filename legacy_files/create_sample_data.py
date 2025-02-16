@@ -21,7 +21,7 @@ for i in range(num_rows):
 df = pd.DataFrame(data, columns=["time", "side", "gx", "gy", "gz", "ax", "ay", "az"])
 
 # Save to CSV
-csv_file_path = "/mnt/data/sample_sensor_data.csv"
+csv_file_path = "../data/sample_sensor_data.csv"
 df.to_csv(csv_file_path, index=False)
 
 csv_file_path

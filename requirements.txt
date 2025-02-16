@@ -1,5 +1,5 @@
-shap
-shapely
+# shap
+# shapely
 
 fastapi
 uvicorn
@@ -9,4 +9,11 @@ scipy
 joblib
 pydantic
 sqlalchemy
-psycopg2
+scipy
+python-multipart
+scikit-learn==1.3.1
+
+# database
+sqlalchemy
+asyncpg
+databases

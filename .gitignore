@@ -1,11 +1,13 @@
 .templates
 .DS_Store
 .vscode/
+__pycache__
+.env
 
 template.config.js
 
-raw_data/*.json
-raw_data
-data/*.csv
+data/data_raw/*.json
+data/data_raw
+data/data_extracted/*.csv
 
 

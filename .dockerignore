@@ -1,0 +1,17 @@
+# Ignore these files and directories
+app/
+data/data_raw/
+how_to_run.md
+legacy_files/
+notebooks/
+reports/
+
+.templates
+.DS_Store
+.vscode/
+__pycache__
+.env
+
+template.config.js
+
+data/data_raw/*.json
