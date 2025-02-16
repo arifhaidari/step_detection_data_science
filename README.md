@@ -84,19 +84,6 @@ Step detection is an essential component in various applications, including fitn
     └── utils.py
 ```
 
-## References & Citations
-
-The following sources were used for research and inspiration:
-
-- [PMC: Step Detection Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10187326/)
-- [MDPI Sensors Research](https://www.mdpi.com/1424-8220/23/2/745)
-- [Arxiv: Step Detection Using ML](https://arxiv.org/pdf/1801.02336)
-- [Fraunhofer IIS - Gait Analysis](https://www.iis.fraunhofer.de/en/ff/sse/health/cic-gait-analysis-lab.html)
-- [Women Who Code - Signal Processing](https://www.womenwhocode.com/blog/applications-of-signal-processing-in-machine-learning)
-- [Medium: Low Pass Filtering](https://medium.com/analytics-vidhya/how-to-filter-noise-with-a-low-pass-filter-python-885223e5e9b7)
-- [GitHub: Step Detection ML](https://github.com/DidierRLopes/step-detection-ML/tree/main)
-- [Feature Engineering Guide](https://medium.com/@rahulholla1/advanced-feature-engineering-for-time-series-data-5f00e3a8ad29)
-
 ## Deliverables
 
 The project includes the following key deliverables:
@@ -130,19 +117,21 @@ Model evaluation details are documented in the following notebook:
 - Effective feature engineering for accurate step count prediction.
 - Exploring various sources to improve domain knowledge.
 
-## Usage
+## References & Citations
 
-- Preprocess the raw data using the Jupyter notebooks.
-- Train the model using `notebooks/3-modeling.ipynb`.
-- Deploy the trained model via FastAPI.
-- Use the Flutter app for visualization.
+The following sources were used for research and inspiration:
+
+- [PMC: Step Detection Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10187326/)
+- [MDPI Sensors Research](https://www.mdpi.com/1424-8220/23/2/745)
+- [Arxiv: Step Detection Using ML](https://arxiv.org/pdf/1801.02336)
+- [Fraunhofer IIS - Gait Analysis](https://www.iis.fraunhofer.de/en/ff/sse/health/cic-gait-analysis-lab.html)
+- [Women Who Code - Signal Processing](https://www.womenwhocode.com/blog/applications-of-signal-processing-in-machine-learning)
+- [Medium: Low Pass Filtering](https://medium.com/analytics-vidhya/how-to-filter-noise-with-a-low-pass-filter-python-885223e5e9b7)
+- [GitHub: Step Detection ML](https://github.com/DidierRLopes/step-detection-ML/tree/main)
+- [Feature Engineering Guide](https://medium.com/@rahulholla1/advanced-feature-engineering-for-time-series-data-5f00e3a8ad29)
 
 ## Future Improvements
 
 - Implement deep learning models like **LSTM** or **Temporal CNN** for better temporal feature extraction.
 - Improve real-time step classification instead of batch-based prediction.
 - Enhance noise filtering techniques for more accurate step detection.
-
-## License
-
-This project is licensed under the MIT License.
