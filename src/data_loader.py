@@ -66,8 +66,17 @@ class DataLoader:
           """
           df = pd.DataFrame(data)
           df['id'] = filename.split('.')[0]  # Use the filename as the ID
+          
+          # Handle missing time or milliseconds in time 
           df["time"] = pd.to_datetime(df["time"], format="%Y-%m-%d %H:%M:%S.%f", errors='coerce')
-          df["time"].fillna(pd.to_datetime(df["time"], format="%Y-%m-%d %H:%M:%S", errors='coerce'), inplace=True)
+
+          # If there are any NaT values, attempt conversion without milliseconds
+          if df["time"].isna().any():
+               df.loc[df["time"].isna(), "time"] = pd.to_datetime(df["time"], format="%Y-%m-%d %H:%M:%S", errors='coerce')
+
           df['side'] = df['metadata'].apply(lambda x: x['side'])
+          print('*'*60)
+          print(df.isnull().sum())  # Check for missing values
+          print(df.head())  # Inspect sample data
           df.drop(columns=['metadata'], inplace=True)
           return df

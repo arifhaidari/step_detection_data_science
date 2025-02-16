@@ -1,68 +1,84 @@
 # Step Detection - Data Science
 
-## How to run?
+## 📌 Project Overview
 
-before we start, if you want to run first, here is a step by step guid how to run the project and try everything by yourself and get hands on experience - the link: <br>
-https://github.com/arifhaidari/step_detection_data_science/blob/main/how_to_run.md
+This project was developed as part of a task assigned by **EVERSION Technologies GmbH** to evaluate my data science skills. The objective is to build a step detection model using sensor data and apply machine learning techniques to predict the total number of steps taken in a session (measurement).
 
-## Introduction
+## 🚀 How to Run the Project
 
-This project is developed as part of a task assigned by EVERSION Technologies GmbH to evaluate my data science skills. The objective is to build a step detection model using sensor data and apply machine learning techniques to predict the total number of steps taken in a session.
+To set up and run the project on your system, follow the step-by-step guide provided here:
+🔗 [How to Run](https://github.com/arifhaidari/step_detection_data_science/blob/main/how_to_run.md)
 
-## Problem Definition
+## 📖 Problem Definition
 
-Step detection is an essential component in various applications, including fitness tracking, rehabilitation, and gait analysis. The goal of this project is to predict the total number of steps from sensor data.
+Step detection plays a crucial role in various applications, including fitness tracking, rehabilitation, and gait analysis. The goal of this project is to predict the total number of steps from sensor data.
 
-- **Type of problem:** Regression
-- **Why Regression?** Since the goal is to predict the total step count (a continuous numerical value), this is a regression problem.
-- **Alternative Approach:** It could be framed as a classification problem if the goal was to classify each time frame as "step" or "no step," useful for real-time detection.
+- **Problem Type:** Regression
+- **Why Regression?** The goal is to predict the total step count, which is a continuous numerical value.
+- **Alternative Approach:** If the objective were to classify each time frame as "step" or "no step" for real-time detection, it could be framed as a classification problem.
 
-## Approach
+## 🔬 Approach
 
-1. **Data Preprocessing:**
+### 1️⃣ Data Preprocessing
 
-   - Handling missing values and noise reduction using filtering techniques.
-   - Extracting features from raw sensor data.
+- Handling missing values and detecting spikes (which is considered to be a step) using filtering techniques.
+- Extracting features from raw sensor data.
 
-2. **Feature Engineering:**
+### 2️⃣ Feature Engineering
 
-   - Analyzing sensor signals to derive meaningful features.
-   - Evaluating feature importance for step count prediction.
+- Analyzing sensor signals to derive meaningful features.
+- Evaluating feature importance for step count prediction.
 
-3. **Modeling:**
+### 3️⃣ Modeling
 
-   - Implemented a **Random Forest model** for step count prediction.
-   - Evaluated different machine learning models to optimize performance.
+- Implemented a **Random Forest model** for step count prediction.
+- Evaluated different machine learning models to optimize performance.
 
-4. **Evaluation & Deployment:**
-   - Analyzed model performance.
-   - Packaged the model using FastAPI.
-   - Provided a Flutter-based visualization app.
+### 4️⃣ Evaluation & Deployment
 
-## Project Structure
+- Analyzed model performance.
+- Packaged the model using **FastAPI** and **Containerized** deployment.
+- Provided a **Flutter-based visualization app**.
+
+## 📂 Project Structure
 
 ```
 .
 ├── Dockerfile
 ├── README.md
+├── api
+│   ├── config.py
+│   ├── database.py
+│   ├── database_temp
+│   │   ├── db_connection.py
+│   │   └── tables.py
+│   ├── endpoints
+│   │   ├── steps_crud_db.py
+│   │   ├── steps_prediction_db.py
+│   │   └── steps_prediction_json.py
+│   ├── main.py
+│   └── schema
+│       └── prediction_schema.py
 ├── app
 │   └── download_app.txt
 ├── data
-│   ├── calculated_steps.json
-│   ├── feature_engineered_data.csv
-│   ├── preprocessed_data.csv
-│   └── raw_extracted_data.csv
+│   ├── data_extracted
+│   │   ├── feature_engineered_data.csv
+│   │   ├── preprocessed_data.csv
+│   │   └── raw_extracted_data.csv
+│   ├── data_output
+│   │   └── calculated_steps.json
+│   └── data_raw
+│       └── 234 JSON files
 ├── docker-compose.yml
-├── fastapi
-│   ├── config.py
-│   ├── data_processing.py
-│   ├── main.py
-│   ├── models.py
-│   ├── predict_step.py
-│   └── utils.py
+├── how_to_run.md
 ├── legacy_files
+│   ├── create_sample_data.py
 │   ├── feature_engineering.ipynb
-│   └── info.txt
+│   ├── finding_height_peaks.py
+│   ├── info.txt
+│   ├── oop_steps_generator.py
+│   └── steps_generator_function.py
 ├── models
 │   └── random_forest_model.pkl
 ├── notebooks
@@ -70,54 +86,62 @@ Step detection is an essential component in various applications, including fitn
 │   ├── 2-feature_engineering.ipynb
 │   ├── 3-modeling.ipynb
 │   ├── 4-pipeline.ipynb
-│   └── alternatives.ipynb
-├── raw_data
-│   └── 234 json file
+│   └── snippets.ipynb
 ├── reports
 │   ├── domain_knowledge_notes.md
 │   └── notes.md
 ├── requirements.txt
-└── src
-    ├── calculated_steps_generator.py
-    ├── create_sample_data.py
-    ├── finding_height_peaks.py
-    └── utils.py
+├── src
+│   ├── data_loader.py
+│   ├── data_processor.py
+│   ├── steps_predictor.py
+│   └── utils.py
+└── tests
+    ├── test_data_loader.py
+    ├── test_data_processor.py
+    ├── test_feature_extractor.py
+    ├── test_step_prediction_pipeline.py
+    └── test_steps_predictor.py
 ```
 
-## Deliverables
+## 📦 Deliverables
 
-The project includes the following key deliverables:
+### 🔹 Python Scripts / Jupyter Notebooks
 
-1. **Python Script / Jupyter Notebook** implementing step detection:
+- [Notebooks](https://github.com/arifhaidari/step_detection_data_science/tree/main/notebooks)
+- [Step Calculation Scripts](https://github.com/arifhaidari/step_detection_data_science/blob/main/src)
 
-   - [Notebooks](https://github.com/arifhaidari/step_detection_data_science/tree/main/notebooks)
-   - [Step Calculation Script](https://github.com/arifhaidari/step_detection_data_science/blob/main/src/calculated_steps_generator.py)
+### 🔹 Output Data
 
-2. **Output Data:**
+- [Calculated Steps JSON](https://github.com/arifhaidari/step_detection_data_science/tree/main/data/data_output)
 
-   - [Calculated Steps JSON](https://github.com/arifhaidari/step_detection_data_science/blob/main/data/calculated_steps.json)
+### 🔹 Flutter Application for Data Visualization
 
-3. **Flutter Application for Data Visualization:**
+- [Flutter Project](https://github.com/arifhaidari/step_detection_flutter/tree/main)
 
-   - [Flutter Project](https://github.com/arifhaidari/step_detection_flutter/tree/main)
+### 🔹 Documentation
 
-4. **Documentation (Markdown/PDF):**
-   - This README file
-   - Detailed documentation in the [Notebooks](https://github.com/arifhaidari/step_detection_data_science/tree/main/notebooks).
+- This README file
+- Detailed documentation in the [Notebooks](https://github.com/arifhaidari/step_detection_data_science/tree/main/notebooks).
 
-## Model Evaluation
+## 📊 Model Evaluation
 
 Model evaluation details are documented in the following notebook:
+🔗 [Modeling & Evaluation Notebook](https://github.com/arifhaidari/step_detection_data_science/blob/main/notebooks/3-modeling.ipynb)
 
-- [Modeling & Evaluation Notebook](https://github.com/arifhaidari/step_detection_data_science/blob/main/notebooks/3-modeling.ipynb)
-
-## Challenges Encountered
+## ⚠️ Challenges Encountered
 
 - Understanding the sensor data and its structure.
 - Effective feature engineering for accurate step count prediction.
 - Exploring various sources to improve domain knowledge.
 
-## References & Citations
+## 🔮 Future Improvements
+
+- Implement deep learning models like **LSTM** or **Temporal CNN** for better temporal feature extraction.
+- Improve real-time step classification instead of batch-based prediction.
+- Enhance noise filtering techniques for more accurate step detection.
+
+## 📚 References & Citations
 
 The following sources were used for research and inspiration:
 
@@ -130,8 +154,10 @@ The following sources were used for research and inspiration:
 - [GitHub: Step Detection ML](https://github.com/DidierRLopes/step-detection-ML/tree/main)
 - [Feature Engineering Guide](https://medium.com/@rahulholla1/advanced-feature-engineering-for-time-series-data-5f00e3a8ad29)
 
-## Future Improvements
+---
 
-- Implement deep learning models like **LSTM** or **Temporal CNN** for better temporal feature extraction.
-- Improve real-time step classification instead of batch-based prediction.
-- Enhance noise filtering techniques for more accurate step detection.
+**📌 Author:** Arif Haidari  
+**🔗 GitHub:** [arifhaidari](https://github.com/arifhaidari)
+
+Feel free to contribute, report issues, or suggest improvements!
+🚀 Happy Coding!
