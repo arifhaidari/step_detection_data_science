@@ -43,6 +43,8 @@ docker-compose ps
 
 ### 4️⃣ Stopping the Project
 
+In case you want to stop the project
+
 ```bash
 docker-compose down
 ```
@@ -97,6 +99,8 @@ SELECT * FROM predictions;
 ```
 
 ### Create `predictions` Table
+
+usually it creates automatically (so no need to run the following)
 
 ```sql
 CREATE TABLE predictions (
