@@ -1,7 +1,7 @@
-# Use an official Python runtime as the base image
+# official Python runtime as the base image
 FROM python:3.10-slim
 
-# Set the working directory in the container
+# working directory in the container
 WORKDIR /app
 
 # Copy the requirements file into the container
@@ -15,6 +15,7 @@ COPY api/ ./api/
 COPY data/ ./data/
 COPY models/ ./models/
 COPY src/ ./src/
+COPY test/ ./test/
 # COPY main.py .
 
 # Expose the port the app runs on

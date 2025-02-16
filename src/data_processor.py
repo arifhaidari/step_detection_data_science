@@ -22,7 +22,13 @@ class DataPreprocessor:
           return filtfilt(b, a, data)
      
      def preprocess(self, df):
-          df["time"] = df["time"].fillna(method="ffill")
+          # df["time"] = df["time"].fillna(method="ffill")
+          # Convert 'time' column to datetime
+          df["time"] = pd.to_datetime(df["time"], format="%Y-%m-%d %H:%M:%S.%f", errors="coerce")
+          
+          # Fill missing time values using forward fill
+          df["time"] = df["time"].ffill()
+          
           df.set_index('time', inplace=True)
           df = df.sort_index()
           df['time_diff'] = df.index.to_series().diff().dt.total_seconds()

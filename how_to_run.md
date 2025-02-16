@@ -15,6 +15,18 @@ docker-compose up
 check if the both containers running:
 docker-compose ps
 
+wanted to stop the project:
+docker-compose down
+
+to interact with fastapi app using terminal:
+docker exec -it fastapi_app bash
+
+if you want to run test (while you are in the interactive mode with fastapi container):
+pytest test/test_data_loader.py
+and the same applies to all files in test directory
+if you want to ignore the warning:
+pytest -W ignore::FutureWarning test/test_data_loader.py
+
 seeing the tables in terminal:
 docker exec -it postgres_db psql -U db_temp_user -d step_detection_db
 SELECT \* FROM predictions;

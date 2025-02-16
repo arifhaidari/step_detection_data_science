@@ -8,7 +8,7 @@ from databases import Database
 from sqlalchemy import select
 from typing import List
 
-# Add the step_detection_data_science/src directory to the Python path
+# Add the step_detection_data_science/src directory to the Python path (without container)
 # sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../step_detection_data_science/src")))
 
 # Import the classes from src directory 

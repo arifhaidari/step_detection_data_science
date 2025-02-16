@@ -2,7 +2,8 @@
 
 ## How to run?
 
-before we start, if you want to run first, here is a step by step guid how to run the project and try everything by yourself and get hands on experience - the link
+before we start, if you want to run first, here is a step by step guid how to run the project and try everything by yourself and get hands on experience - the link: <br>
+https://github.com/arifhaidari/step_detection_data_science/blob/main/how_to_run.md
 
 ## Introduction
 
