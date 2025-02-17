@@ -14,15 +14,9 @@ This guide provides instructions to set up and run the entire project, including
 
 ## 🚀 Running the Project
 
-### 1️⃣ Start the FastAPI Backend
+### 1️⃣ Build and Start Docker Containers
 
 from project root:
-
-```bash
-uvicorn api.main:app --reload
-```
-
-### 2️⃣ Build and Start Docker Containers
 
 ```bash
 docker-compose up --build
@@ -35,13 +29,13 @@ docker-compose build
 docker-compose up
 ```
 
-### 3️⃣ Verify Running Containers
+### 2️⃣ Verify Running Containers
 
 ```bash
 docker-compose ps
 ```
 
-### 4️⃣ Stopping the Project
+### 3️⃣ Stopping the Project
 
 In case you want to stop the project
 
