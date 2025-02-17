@@ -73,12 +73,7 @@ Step detection plays a crucial role in various applications, including fitness t
 ├── docker-compose.yml
 ├── how_to_run.md
 ├── legacy_files
-│   ├── create_sample_data.py
-│   ├── feature_engineering.ipynb
-│   ├── finding_height_peaks.py
-│   ├── info.txt
-│   ├── oop_steps_generator.py
-│   └── steps_generator_function.py
+│   └── unused (at the moment) goes here
 ├── models
 │   └── random_forest_model.pkl
 ├── notebooks
