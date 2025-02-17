@@ -15,7 +15,7 @@ COPY api/ ./api/
 COPY data/ ./data/
 COPY models/ ./models/
 COPY src/ ./src/
-COPY test/ ./test/
+COPY tests/ ./tests/
 # COPY main.py .
 
 # Expose the port the app runs on
