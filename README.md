@@ -49,9 +49,6 @@ Step detection plays a crucial role in various applications, including fitness t
 ├── api
 │   ├── config.py
 │   ├── database.py
-│   ├── database_temp
-│   │   ├── db_connection.py
-│   │   └── tables.py
 │   ├── endpoints
 │   │   ├── steps_crud_db.py
 │   │   ├── steps_prediction_db.py
