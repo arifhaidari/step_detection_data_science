@@ -22,7 +22,6 @@ class DataPreprocessor:
           return filtfilt(b, a, data)
      
      def preprocess(self, df):
-          # df["time"] = df["time"].fillna(method="ffill")
           # Convert 'time' column to datetime
           df["time"] = pd.to_datetime(df["time"], format="%Y-%m-%d %H:%M:%S.%f", errors="coerce")
           
