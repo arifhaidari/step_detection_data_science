@@ -22,7 +22,7 @@ predictions_table = Table(
     Column("timestamp", DateTime),
 )
 
-# Create a databases.Database instance for async queries
+# Create a database instance for async queries
 database = Database(DATABASE_URL)
 
 # Create the table (run this once to create the table in the database)
