@@ -40,3 +40,21 @@ print("height:", height)
 # q75: -1.0093757492713402
 # IQR: 0.47344478035036985
 # height: 0.0
+
+
+# using mean of acc_magnitude
+mean_acc_magnitude = df["acc_magnitude"].mean()
+std_acc_magnitude = df["acc_magnitude"].std()
+mean_height = mean_acc_magnitude + 0.25 * std_acc_magnitude  
+
+peaks, _ = find_peaks(df["acc_magnitude"], height=mean_height)
+
+print("peaks", len(peaks))
+print("mean_az",mean_acc_magnitude)
+print("std_az",std_acc_magnitude)
+print("height", height)
+
+# peaks 352344
+# mean_az 1.4666781837688312
+# std_az 0.9405900599158591
+# height 1.939164898253062

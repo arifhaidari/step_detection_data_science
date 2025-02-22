@@ -1,5 +1,6 @@
 import os
 import json
+import numpy as np
 import joblib
 import logging
 from datetime import datetime
@@ -13,11 +14,6 @@ import sys
 import warnings
 warnings.filterwarnings("ignore")
 
-# Constants
-HEIGHT = -1.66
-fs = 100.0  # Sampling frequency (Hz)
-cutoff = 2.5  # Cutoff frequency (Hz)
-order = 4  # Filter order
 
 # Paths
 PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))  
@@ -40,21 +36,26 @@ class StepPredictor:
      
      def predict(self, new_session_data):
           new_session_features = FeatureExtractor.extract_features(new_session_data)
-          X_new = new_session_features.drop(columns=["id", "start_time", "end_time", "left_steps", "right_steps"])
+          
+          X_new = new_session_features.copy()
 
           # Ensure consistency by dropping any extra columns
           expected_features = self.model.feature_names_in_  # Attributes available in sklearn models
-          X_new = new_session_features.drop(columns=["id", "start_time", "end_time", "left_steps", "right_steps"], errors='ignore')
 
           # Keep only features that were present during training
-          X_new = X_new[[col for col in X_new.columns if col in expected_features]]
+          X_new = X_new[[col for col in new_session_features.columns if col in expected_features]]
           predicted_steps = self.model.predict(X_new)
-          new_session_features["left_steps_pred"] = predicted_steps[:, 0].round().astype(int)
-          new_session_features["right_steps_pred"] = predicted_steps[:, 1].round().astype(int)
-          new_session_features["start_time"] = new_session_features["start_time"].dt.strftime("%Y-%m-%dT%H:%M:%S")
-          new_session_features["end_time"] = new_session_features["end_time"].dt.strftime("%Y-%m-%dT%H:%M:%S")
-          output = new_session_features[["id", "start_time", "end_time", "left_steps_pred", "right_steps_pred"]]
-          return output.rename(columns={"left_steps_pred": "left_steps", "right_steps_pred": "right_steps"}).to_dict(orient="records")
+          
+          new_session_features["left_steps"] = predicted_steps[:, 0].round().astype(int)
+          new_session_features["right_steps"] = predicted_steps[:, 1].round().astype(int)
+          
+          output = new_session_features[["id", "start_time", "end_time", "left_steps", "right_steps", "session_duration", "num_measurements"]]
+          
+          # Convert Timestamp columns to ISO format strings
+          output['start_time'] = output['start_time'].apply(lambda x: x.isoformat())
+          output['end_time'] = output['end_time'].apply(lambda x: x.isoformat())
+          
+          return output.to_dict(orient="records")
 
 class StepPredictionPipeline:
      def __init__(self, data_loader, preprocessor, predictor):
