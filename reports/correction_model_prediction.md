@@ -45,9 +45,9 @@ In some cases, there were fewer sensor readings within a given time period. This
 - Variability in sensor readings
 - Rest periods where the person was standing still or not moving linearly
 
-### 4. Impact of `acc_magnitude_mean`
+### 4. Impact of `acc_magnitude`
 
-- The **acc_magnitude_mean** is directly proportional to step count (both left and right steps) and that is why it is chosen over only vertical acceleration.
+- The **acc_magnitude** is directly proportional to step count (both left and right steps) and that is why it is chosen over only vertical acceleration.
 - Other attributes contribute to step detection but not as significantly as **acc_magnitude_mean**, which primarily defines the steps.
 
 ## Statistical Analysis

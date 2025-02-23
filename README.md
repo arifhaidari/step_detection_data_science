@@ -47,9 +47,11 @@ Step detection plays a crucial role in various applications, including fitness t
 ├── Dockerfile
 ├── README.md
 ├── api
+│   ├── __init__.py
 │   ├── config.py
 │   ├── database.py
 │   ├── endpoints
+│   │   ├── __init__.py
 │   │   ├── steps_crud_db.py
 │   │   ├── steps_prediction_db.py
 │   │   └── steps_prediction_json.py
@@ -60,35 +62,37 @@ Step detection plays a crucial role in various applications, including fitness t
 │   └── download_app.txt
 ├── data
 │   ├── data_extracted
-│   │   ├── feature_engineered_data.csv
 │   │   ├── preprocessed_data.csv
 │   │   └── raw_extracted_data.csv
 │   ├── data_output
-│   │   └── calculated_steps.json
+│   │   ├── predictions_20250222_205917.json
 │   └── data_raw
-│       └── 234 JSON files
+│       └── 234 json files
 ├── docker-compose.yml
 ├── how_to_run.md
 ├── legacy_files
-│   └── unused (at the moment) goes here
+│   ├── 0-info.txt
+│   └── unused files goes here
 ├── models
 │   └── random_forest_model.pkl
 ├── notebooks
 │   ├── 1-data_preprocessing.ipynb
-│   ├── 2-feature_engineering.ipynb
-│   ├── 3-modeling.ipynb
-│   ├── 4-pipeline.ipynb
-│   └── snippets.ipynb
+│   ├── 2-modeling.ipynb
+│   └── 3-pipeline.ipynb
 ├── reports
+│   ├── correction_model_prediction.md
 │   ├── domain_knowledge_notes.md
 │   └── notes.md
 ├── requirements.txt
 ├── src
+│   ├── __init__.py
 │   ├── data_loader.py
 │   ├── data_processor.py
 │   ├── steps_predictor.py
 │   └── utils.py
+├── template.config.js
 └── tests
+    ├── __init__.py
     ├── test_data_loader.py
     ├── test_data_processor.py
     ├── test_feature_extractor.py
@@ -119,12 +123,13 @@ Step detection plays a crucial role in various applications, including fitness t
 ## 📊 Model Evaluation
 
 Model evaluation details are documented in the following notebook:
-🔗 [Modeling & Evaluation Notebook](https://github.com/arifhaidari/step_detection_data_science/blob/main/notebooks/3-modeling.ipynb)
+🔗 [Modeling & Evaluation Notebook](https://github.com/arifhaidari/step_detection_data_science/blob/main/notebooks/2-modeling.ipynb)
 
 ## ⚠️ Challenges Encountered
 
 - Understanding the sensor data and its structure.
 - Effective feature engineering for accurate step count prediction.
+- Identifying factors and elements to detect the steps.
 - Exploring various sources to improve domain knowledge.
 
 ## 🔮 Future Improvements
@@ -145,6 +150,7 @@ The following sources were used for research and inspiration:
 - [Medium: Low Pass Filtering](https://medium.com/analytics-vidhya/how-to-filter-noise-with-a-low-pass-filter-python-885223e5e9b7)
 - [GitHub: Step Detection ML](https://github.com/DidierRLopes/step-detection-ML/tree/main)
 - [Feature Engineering Guide](https://medium.com/@rahulholla1/advanced-feature-engineering-for-time-series-data-5f00e3a8ad29)
+- Some context are provided through interaction with large language models
 
 ---
 
