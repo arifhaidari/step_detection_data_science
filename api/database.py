@@ -1,6 +1,6 @@
 import os
 from sqlalchemy.ext.asyncio import create_async_engine
-from sqlalchemy import MetaData, Table, Column, String, Integer, DateTime
+from sqlalchemy import MetaData, Table, Column, String, Integer, DateTime, Float
 from databases import Database
 
 # Load environment variables
@@ -19,6 +19,8 @@ predictions_table = Table(
     Column("end_time", String),
     Column("left_steps", Integer),
     Column("right_steps", Integer),
+    Column("num_measurements", Integer),
+    Column("session_duration", Float),
     Column("timestamp", DateTime),
 )
 

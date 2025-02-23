@@ -1,0 +1,20 @@
+[
+    {
+        "id": "2DkAfN0SOvEuGfHqLA5H",
+        "start_time": "2024-06-14T09:41:37.243000",
+        "end_time": "2024-06-14T09:41:51.999000",
+        "left_steps": 4,
+        "right_steps": 3,
+        "session_duration": 14.756,
+        "num_measurements": 5671
+    },
+    {
+        "id": "4ikPFuW5GnKXxIAtDvCg",
+        "start_time": "2024-06-14T10:37:40.404000",
+        "end_time": "2024-06-14T10:37:52.970000",
+        "left_steps": 4,
+        "right_steps": 3,
+        "session_duration": 12.566,
+        "num_measurements": 4763
+    }
+]

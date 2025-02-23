@@ -103,6 +103,8 @@ CREATE TABLE predictions (
     end_time VARCHAR,
     left_steps INTEGER,
     right_steps INTEGER,
+    num_measurements INTEGER,
+    session_duration DOUBLE PRECISION,
     timestamp TIMESTAMP
 );
 ```

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Here I am gonna explain the corrections made to the step-counting model to improve its accuracy and not break the laws of physics again :)))). The primary changes involved modifying the filter and tuning parameters to achieve realistic predictions.
+Here I am gonna explain the corrections made to the step-counting model to improve its accuracy and not break the laws of physics again :)))). The primary changes involved modifying the filter, considering the time factor (0.5 second per step), using magnitude of linear acceleration and tuning parameters to achieve realistic predictions.
 
 ## Key Corrections
 

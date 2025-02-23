@@ -7,6 +7,8 @@ class PredictionResponse(BaseModel):
      end_time: str
      left_steps: int
      right_steps: int
+     num_measurements: int
+     session_duration: float
 
 # this schema inherit all attributes from PredictionResponse and add timestamp to it 
 class PredictionList(PredictionResponse):
