@@ -48,7 +48,7 @@ In some cases, there were fewer sensor readings within a given time period. This
 ### 4. Impact of `acc_magnitude`
 
 - The **acc_magnitude** is directly proportional to step count (both left and right steps) and that is why it is chosen over only vertical acceleration.
-- Other attributes contribute to step detection but not as significantly as **acc_magnitude_mean**, which primarily defines the steps.
+- Other attributes contribute to step detection but not as significantly as **acc_magnitude**, which primarily defines the steps.
 
 ## Statistical Analysis
 
